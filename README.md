@@ -1,4 +1,4 @@
-# 🚀 Deployment of Microservices Application using Ingress Controller
+# 🚀 Deployment of MultiPage Web Application using Ingress Controller
 
 ### by Kastro Kiran V
 
