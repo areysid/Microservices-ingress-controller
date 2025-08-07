@@ -30,3 +30,6 @@ https://youtu.be/3fhvnsNY5fc
 
 ## Main GitHub Repo Link 
 https://github.com/KastroVKiran/microservices-ingress-kastro.git
+
+## 📝 Instructions
+Refer to Ingress-Project_Kastro Kiran-Instructions.txt
